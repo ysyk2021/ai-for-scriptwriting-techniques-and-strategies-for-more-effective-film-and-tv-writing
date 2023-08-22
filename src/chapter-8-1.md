@@ -1,5 +1,4 @@
-Overview of AI Applications for Storytelling and Plotting in Scriptwriting
-======================================================================================================================================
+
 
 AI technologies are increasingly being used to improve storytelling and plotting in film and TV scriptwriting. In this chapter, we will discuss some of the AI applications and techniques that can help writers create more compelling storylines and characters.
 

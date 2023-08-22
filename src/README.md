@@ -1,4 +1,4 @@
-# Introduction
+
 
 The entertainment industry is constantly evolving, and the emergence of artificial intelligence (AI) has added a new dimension to film and television production. AI technology has brought about significant improvements in various areas of the entertainment industry, including scriptwriting.
 

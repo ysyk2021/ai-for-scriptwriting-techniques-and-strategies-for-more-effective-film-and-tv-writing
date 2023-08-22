@@ -1,5 +1,4 @@
-Chapter 9: AI Ethics and Governance for Scriptwriting
-=====================================================
+
 
 As AI increasingly becomes a part of scriptwriting, it is important to consider ethical and governance considerations to ensure responsible AI use. In this chapter, we will explore some of the key ethical and regulatory considerations for AI implementation in scriptwriting.
 

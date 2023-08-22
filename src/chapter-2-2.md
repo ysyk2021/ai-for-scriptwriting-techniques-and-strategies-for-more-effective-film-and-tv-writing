@@ -1,5 +1,4 @@
-Types of AI used for Scriptwriting
-================================================================================
+
 
 In this chapter, we will explore the different types of artificial intelligence (AI) used for scriptwriting. With the increasing popularity of AI-powered tools in the entertainment industry, it's important for writers to understand the various types of AI and how they can be leveraged to improve their craft.
 

@@ -1,5 +1,4 @@
-Chapter 5: Using AI for More Creative Idea Generation
-=====================================================
+
 
 AI can be a powerful tool for generating new and innovative ideas in scriptwriting. In this chapter, we'll explore the applications of AI for idea generation in scriptwriting, best practices for AI implementation, and case studies of successful AI implementations.
 

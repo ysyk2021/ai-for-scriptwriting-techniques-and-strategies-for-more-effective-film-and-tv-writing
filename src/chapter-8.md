@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Improved Storytelling and Plotting
-==========================================================
+
 
 As artificial intelligence (AI) continues to advance, its applications in various industries are becoming more prevalent. In the world of scriptwriting, AI offers exciting possibilities for improved storytelling and plotting. In this chapter, we will explore the use of AI for improved storytelling and plotting in scriptwriting.
 

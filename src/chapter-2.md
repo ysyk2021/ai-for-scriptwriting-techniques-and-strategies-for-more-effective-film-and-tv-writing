@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI in Scriptwriting
-============================================
+
 
 Artificial intelligence (AI) has become an increasingly popular tool in the film and television industry, offering writers and producers new ways to enhance their creative process. In this chapter, we will explore the definition of AI-powered scriptwriting and the types of AI used for scriptwriting. Additionally, we will discuss the benefits that AI can offer for creating more effective film and TV writing.
 

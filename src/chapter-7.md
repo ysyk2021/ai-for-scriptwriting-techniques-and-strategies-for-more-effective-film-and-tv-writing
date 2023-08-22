@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Better Dialogue and Character Development
-=================================================================
+
 
 AI can be a valuable tool in improving dialogue and character development in film and television writing. In this chapter, we will provide an overview of AI applications in dialogue and character development, discuss best practices for AI implementation, and explore case studies of successful AI implementations.
 

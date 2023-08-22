@@ -1,5 +1,4 @@
-Overview of AI Applications for Idea Generation in Scriptwriting
-=======================================================================================================================
+
 
 AI-powered tools and techniques can be used to generate more creative and compelling ideas in scriptwriting. In this chapter, we will explore the various applications of AI for idea generation in scriptwriting.
 

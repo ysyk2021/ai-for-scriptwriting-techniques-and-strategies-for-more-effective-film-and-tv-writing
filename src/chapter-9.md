@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Scriptwriting
-===============================================
+
 
 Assessing the effectiveness of AI for scriptwriting is crucial to ensure that it is providing value and enhancing the creative process. In this chapter, we will explore best practices for measuring the impact of AI on scriptwriting.
 

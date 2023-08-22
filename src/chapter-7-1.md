@@ -1,5 +1,4 @@
-Overview of AI applications for dialogue and character development in scriptwriting
-======================================================================================================================================================
+
 
 AI-powered tools can be effective in enhancing dialogue and character development in film and television writing. In this chapter, we will provide an overview of the various AI applications available for dialogue and character development.
 
