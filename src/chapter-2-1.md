@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has emerged as a powerful tool for writers and producers across the film and television industry. Integrating AI into scriptwriting workflows can help enhance creativity, improve efficiency, and produce high-quality scripts. In this chapter, we will explore the definition of AI-powered scriptwriting and discuss its capabilities and applications.
 
 Definition of AI-Powered Scriptwriting
