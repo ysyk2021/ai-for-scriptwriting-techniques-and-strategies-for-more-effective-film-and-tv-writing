@@ -16,3 +16,7 @@ Throughout this book, we'll explore the potential benefits and drawbacks of usin
 By the end of this book, you'll have a deeper understanding of how AI can be used to improve your scriptwriting skills and techniques. You'll also have learned practical strategies for implementing AI into your writing process to make it more efficient and effective. So, whether you're looking to enhance your creativity, streamline your workflow, or simply stay ahead of the curve in the world of scriptwriting, "AI for Scriptwriting" is the book for you.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
